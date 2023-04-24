@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-rentalapp-staging-224713-authRole",
+      "UnauthRoleArn": "arn:aws:iam::128433637168:role/amplify-rentalapp-staging-224713-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::128433637168:role/amplify-rentalapp-staging-224713-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-rentalapp-staging-224713-deployment",
+      "UnauthRoleName": "amplify-rentalapp-staging-224713-unauthRole",
+      "StackName": "amplify-rentalapp-staging-224713",
+      "StackId": "arn:aws:cloudformation:us-east-1:128433637168:stack/amplify-rentalapp-staging-224713/4c4a88f0-db16-11ed-aee6-0ece3e61b2e9",
+      "AmplifyAppId": "d31y9h2xq1acvk"
+    },
+    "categories": {
+      "auth": {
+        "rentalapp": {}
+      }
+    }
+  }
+}
